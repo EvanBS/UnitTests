@@ -1,0 +1,17 @@
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\MSTestUnitSLN.deps.json
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\MSTestUnitSLN.runtimeconfig.json
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\MSTestUnitSLN.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\MSTestUnitSLN.dll
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\MSTestUnitSLN.pdb
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\UnitTests.dll
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\bin\Debug\netcoreapp2.2\UnitTests.pdb
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\obj\Debug\netcoreapp2.2\MSTestUnitSLN.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\obj\Debug\netcoreapp2.2\MSTestUnitSLN.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\obj\Debug\netcoreapp2.2\MSTestUnitSLN.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\obj\Debug\netcoreapp2.2\MSTestUnitSLN.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\obj\Debug\netcoreapp2.2\MSTestUnitSLN.csproj.CopyComplete
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\obj\Debug\netcoreapp2.2\MSTestUnitSLN.dll
+C:\Users\Ivan\source\repos\UnitTests\MSTestUnitSLN\obj\Debug\netcoreapp2.2\MSTestUnitSLN.pdb
